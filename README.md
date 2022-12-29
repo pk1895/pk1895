@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prasad 
--  A Web developer 🎯
+-  UI Developer 🎯
 - 🌱 I’m currently & exploring React JS & learning Go Lang
 - 💞️ I’m looking to collaborate on React JS
 - 📫 How to reach me pnkhanapure@gmail.com
